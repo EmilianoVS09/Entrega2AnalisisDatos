@@ -122,3 +122,7 @@ Cada notebook carga el dataset directamente desde `../Data/` y es autocontenido.
 | [Juan Esteban García Ocampo] | [Ej: Fase 2 Secciones 2.3–2.5] |
 | [Emiliano Vélez Suárez] | [Ej: Fase 2 Sección 2.5, Hipótesis, insights, README] |
 | [Sebastián Ciro Medellín] | [Ej: Fase 3] |
+
+
+## Video Explicativo
+[text](https://youtu.be/PPj2taUudIs)
