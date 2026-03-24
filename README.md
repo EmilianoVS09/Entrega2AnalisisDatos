@@ -124,5 +124,4 @@ Cada notebook carga el dataset directamente desde `../Data/` y es autocontenido.
 | [Sebastián Ciro Medellín] | [Ej: Fase 3] |
 
 
-## Video Explicativo
-[text](https://youtu.be/PPj2taUudIs)
+## Video Explicativo: https://youtu.be/PPj2taUudIs
